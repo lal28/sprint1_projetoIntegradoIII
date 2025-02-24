@@ -15,7 +15,7 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 [Lucas Araujo](https://github.com/lal28)<br>
 [Sávio Souza](https://github.com/Saviosouza-Dev)<br>
 [Pedro Henrique](https://github.com/Pedro9185)<br>
-[Maria Mikaelle Andrade](https://github.com/)<br>
+[Maria Mikaelle Andrade](https://github.com/Mikaelle27)<br>
 
 ## Projeto
 Ferramenta Utilizada:[Figma](https://www.figma.com/)<br>
