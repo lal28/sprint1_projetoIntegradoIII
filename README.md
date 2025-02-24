@@ -4,8 +4,8 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 
 
 # Telas Principais:
-<img src="/img/img1.png" height="400px"/> <img src="/img/img2.png" height="400px"/>
-<img src="/imgs/img3.png" height="400px"/><img src="/img/img4.png" height="400px"/>
+<img src="/Login/Login.png" height="400px"/>  <img src="/img/img2.png" height="400px"/>
+<img src="/Login/Cadastrar.png" height="400px"/> <img src="/img/img4.png" height="400px"/>
 
 ## User Flow
 <img src="/img/Sistema rh User flow.png" height="1200px"/>
