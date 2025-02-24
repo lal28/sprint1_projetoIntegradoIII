@@ -6,24 +6,27 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 # Telas Principais:
 
 <img src="/Login/Login.png" height="250px"/>  <img src="/Login/Cadastrar.png" height="250px"/> <img src="/Pagina_Inicial/Página Inicial.png" height="250px"/>
+<img src="/Colaboradores/Colaboradores.png" height="250px"/><img src="/Colaboradores/Colaboradores filtros.png" height="250px"/>
+<img src="/Colaboradores/Colaboradores Novo colaborador documentos.png" height="250px"/><img src="/Colaboradores/Colaboradores Novo colaborador informacoes pessoais.png" height="250px"/> 
+<img src="/Colaboradores/Colaboradores Novo colaborador informacoes profissionais.png" height="250px"/><img src="/Colaboradores/Visualizar documentos.png" height="250px"/>
+<img src="/Colaboradores/Visualizar informacoes pessoais.png" height="250px"/><img src="/Colaboradores/Visualizar informaçoes profissionais.png" height="250px"/>
+<img src="/Gestão_de_ponto/Gestão de ponto.png" height="250px"/><img src="/Gestão_de_ponto/Gestão de ponto detalhes.png" height="250px"/>
+<img src="/Gestão_de_beneficios/Gestão de benefícios.png" height="250px"/><img src="/Gestão_de_beneficios/Pedido Transporte.png" height="250px"/>
+<img src="/Gestão_de_beneficios/Refeição.png" height="250px"/><img src="/Folha_de_pagamento/Folha de pagamento.png" height="250px"/>
+<img src="/Folha_de_pagamento/Folha de pagamento Filtros.png" height="250px"/><img src="/Folha_de_pagamento/Folha de pagamento Visualizar.png" height="250px"/>
 
 
-<img src="/Colaboradores/Colaboradores.png" height="250px"/>
-<img src="/Colaboradores/Colaboradores filtros.png" height="250px"/>
-<img src="/Colaboradores/Colaboradores Novo colaborador documentos.png" height="250px"/>
-<img src="/Colaboradores/Colaboradores Novo colaborador informacoes pessoais.png" height="250px"/> 
-<img src="/Colaboradores/Colaboradores Novo colaborador informacoes profissionais.png" height="250px"/>
-<img src="/Colaboradores/Visualizar documentos.png" height="250px"/>
-<img src="/Colaboradores/Visualizar informacoes pessoais.png" height="250px"/>
-<img src="/Colaboradores/Visualizar informaçoes profissionais.png" height="250px"/>
-<img src="/Gestão_de_ponto/Gestão de ponto.png" height="250px"/>
-<img src="/Gestão_de_ponto/Gestão de ponto detalhes.png" height="250px"/>
-<img src="/Gestão_de_beneficios/Gestão de benefícios.png" height="250px"/>
-<img src="/Gestão_de_beneficios/Pedido Transporte.png" height="250px"/>
-<img src="/Gestão_de_beneficios/Refeição.png" height="250px"/>
-<img src="/Folha_de_pagamento/Folha de pagamento.png" height="250px"/>
-<img src="/Folha_de_pagamento/Folha de pagamento Filtros.png" height="250px"/>
-<img src="/Folha_de_pagamento/Folha de pagamento Visualizar.png" height="250px"/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
