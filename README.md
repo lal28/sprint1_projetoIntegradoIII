@@ -8,7 +8,8 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 <img src="/imgs/img3.png" height="400px"/><img src="/img/img4.png" height="400px"/>
 
 ## User Flow
-<img src="/imgs/img3.png" height="400px"/>
+<img src="/img/Sistema rh User flow.png" height="1500px"/>
+
 
 ## Desenvolvedores
 [Lucas Araujo](https://github.com/lal28)<br>
