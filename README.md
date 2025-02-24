@@ -32,7 +32,7 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 
 
 ## User Flow
-<img src="/img/Sistema rh User flow.png" height="1200px"/>
+<img src="/userflow/Sistema rh User flow.png" height="1200px"/>
 
 
 ## Desenvolvedores
