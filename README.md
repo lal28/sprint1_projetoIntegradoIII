@@ -5,9 +5,9 @@ Protótipo Preliminar de Alta Fidelidade da diciplina de Projeto Integrado do cu
 
 # Telas Principais:
 
-<img src="/Login/Login.png" height="250px"/>  
-<img src="/Login/Cadastrar.png" height="250px"/> 
-<img src="/Pagina_Inicial/Página Inicial.png" height="250px"/>
+<img src="/Login/Login.png" height="250px"/>  <img src="/Login/Cadastrar.png" height="250px"/> <img src="/Pagina_Inicial/Página Inicial.png" height="250px"/>
+
+
 <img src="/Colaboradores/Colaboradores.png" height="250px"/>
 <img src="/Colaboradores/Colaboradores filtros.png" height="250px"/>
 <img src="/Colaboradores/Colaboradores Novo colaborador documentos.png" height="250px"/>
